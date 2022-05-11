@@ -1,0 +1,17 @@
+#table{
+    text-align: center;
+    border: solid black 1px;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    border: 1px solid black;
+    font-size: 1em;
+}
+
+th{
+    font-size: 2em;
+    background-color: lightgrey;
+
+}
